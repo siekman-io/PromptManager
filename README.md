@@ -1,6 +1,6 @@
 # 🪄 promptmgr – Manage your personal AI prompts from Linux CLI or desktop
 
-![screenshot](https://raw.githubusercontent.com/siekman-io/promptmgr/promptmgr-preview.png)
+![screenshot](https://github.com/siekman-io/PromptManager/blob/main/promptmgr-preview.png)
 
 **promptmgr** is a flexible Bash-based toolset for power users to manage, store, and quickly use AI prompts for ChatGPT, Claude, Midjourney, and other LLMs.  
 Features:
