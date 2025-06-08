@@ -44,4 +44,15 @@ and set the credentials in the config files.
 copy the file promptmgr_db.conf into your ~/.ssh/ folder 
 and copy the files , with your preferred name into /usr/local/bin 
 
+### Simple CLI Options
+
+Gebruik: ./prompt_fzf.sh [--add | --list | --select | --delete | --help]
+Opties:
+  --add       Prompt toevoegen
+  --list      Lijst tonen
+  --select    Prompt kiezen en kopiëren (standaard)
+  --delete    Prompt verwijderen
+  --help      Deze helptekst
+
 Good Luck
+
